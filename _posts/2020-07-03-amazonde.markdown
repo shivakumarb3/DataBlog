@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Amazon Data Engineer Intern"
+date:   2020-07-03 20:28:34 +0530
+categories: myinterviews
+tag: myinterviews
+---
+Amazon visited my campus in the month of june, like starting of my 4th year.
+There are 3 rodunds of interviews
+
+Round1 (Online Round):
+It is an online round. This round has 65 MCQS. The MCQS covers concepts like SQL, DBMS, Some basic big data concepts, Java OOPS, Some basic data structure concepts. Nearly 500+ students attempted this round. The MCQS also carries  -1 mark, if the question is marked wrong.
+
+Round 2 (Technical Round 1):
+From 500 students, only 15 students got shortlisted. Luckily, I am one of them. The interviewer started with some basic tech background about me like what are the intresting areas for me in computer science. I told him about the sites I built, Experience with SQL, datamodeling, problem solving,coding and datastructures that I am familiar with. Then he asked me some questions on datwarehouse, datamarts and concept of datamodel in datawarehouse(snowflake and star schema). He asked me to create some tables based on some example, write queries on select statement, to perform joins on tables (The difficulty level of SQL is easy to medium) and what is the complex SQL that I have faced till now. Then he asked me some basic questions on C, writing program in C, writing different algorithm for fibonacci series(I have written the best fibo algorithm using Iterative DP Process). Then he asked me some basic questions on python and writing simple programs in python like sum of natural numbers using loops, if else and other statements. Then he asked me whether I wanted to know anything about their org and working environment etc. I asked him what are the latest tools they use in amazon and what is the latest data technology he likes or he was impressed with so far (Tip: When the interviewer asked you to ask him/her any questions, do not say that you do not having anything. Ask something, show some intrest and get to know about his working style or org, This shows that you are intrested to work with them and you know about the role you are going to work for). I was told to wait outside and would be informed about second round. You will be shortlisted for second round only if you clear this round.
+
+Round 3 (Technical round 2): I was called for round 3. The interviewer asked me to introduce myself simply and tell my technical background. He went through my resume and asked about my certificates, activities, and the skills mentioned in my resume.(Tip: We should be clear on the things we mention in our resume). Then he asked me to write program to read data from file and delete the duplicate characters. I had written the code in java and used hashing technique to eliminate duplicates. The interviewer asked me why I used hasing in the code, I explained about the time complexity that hasing reduces. Hashing takes O(n) time complexity while brute force takes O(n^2).
+Next, he asked me to write a program on if else condition. This question was easy but need to check the order of execution of the statements.
+Next, He moved to SQL, asked me to write SQL for the creation of tables like students, courses, cardinality between the relations, type of realtion and some queries like retrieving how many courses each student apt, total number of courses, highest apted course and some queries on joins.
+
+After 15 days, We were Informed about the results and luckily, I was selected for the internship.
+
+Conclusion: Data Engineer Intern requiers good knowledge over SQL, datawarehouse and some basic big data concepts. Good knowledge over OOPS, scripting lanuges like python and data structures & algorithms.
+
+
