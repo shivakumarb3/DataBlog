@@ -2,7 +2,6 @@
 layout: post
 title:  "What is Data Engineering"
 date:   2020-06-29 20:28:34 +0530
-categories: DataSolutions
+categories: datasolutions
 tag: data
 ---
-
