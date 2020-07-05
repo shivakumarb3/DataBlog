@@ -30,7 +30,7 @@ github_username:  shivakumarb3
 linkedin_username: shiva-kumar-759a0513b
 collections:
   posts:
-    permalink: /DataBlog/:categories/:year/:month/:day/:title:output_ext
+    permalink: /:categories/:year/:month/:day/:title:output_ext
 
 # Build settings
 theme: minima
