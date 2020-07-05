@@ -23,14 +23,14 @@ email: shivakumar.thadakamalla@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This blog talks about technologies about data processing and storaging - evolving technologies in it. 
   This blog also talks about indian tradition, practices and the scientific reason behind them.
-baseurl: "/DataBlog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SThadakama
 github_username:  shivakumarb3
 linkedin_username: shiva-kumar-759a0513b
 collections:
   posts:
-    permalink: /:categories/:year/:month/:day/:title:output_ext
+    permalink: DataBlog/:categories/:year/:month/:day/:title:output_ext
 
 # Build settings
 theme: minima
