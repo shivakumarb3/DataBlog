@@ -5,3 +5,17 @@ date:   2020-06-29 20:28:34 +0530
 categories: datasolutions
 tag: data
 ---
+## Data Engineering
+Data Engineer builds data pipelines for various data analysis tasks. Data Engineering includes various operations like gathers data from different sources(ingestion), transformation/processing, storage and depolying tools on top of it. Data engineer takes care of scalability, resources, pipelines and configuration of resources. A data engineer should be aware of various paradigms of resource architecture like linear scaling, horizontal scaling etc in databases. The things we discussed is one part of data engineering, The other part includes creating data model for the use cases, it is DE's duty to make sure there will be no loss of data/joins while creating data model. Understanding the various type of data processing techniques like real time processing, unstructured and structured data. The data engineer in one sentence can be termed as 'The one who takes care of building pipelines, modeling data and architecture of databases'.
+
+### Skills DE needs in current gen:
+1. Strong Knowlege Over SQL
+2. Experience with ETL Tools
+3. Familiarity with DataModel,Big data concepts and NoSQL
+4. Should know Languages like python, scala
+5. Should know about cloud storage techniques
+6. Good knowledge over data structures and algorithms
+
+[you can also refer to my quora answer to what are the skills required to become DE](https://qr.ae/TWHtSY "Quora Answer")
+
+One of the best post on internet on Data Engineering : [see here](https://www.dataquest.io/blog/what-is-a-data-engineer/). You can find more about Data engineer role in the industry and what are the types of data engineers.

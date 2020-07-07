@@ -32,7 +32,7 @@ collections:
   posts:
     permalink: /:categories/:year/:month/:day/:title:output_ext
 # Build settings
-theme: slate
+theme: minima
 plugins:
   - jekyll-feed
 
