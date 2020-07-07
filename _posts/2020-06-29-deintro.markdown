@@ -11,7 +11,7 @@ Data Engineer builds data pipelines for various data analysis tasks. Data Engine
 ### Skills DE needs in current gen:
 1. Strong Knowlege Over SQL
 2. Experience with ETL Tools
-3. Familiarity with DataModel,Big data concepts and NoSQL
+3. Familiarity with DataModel, Datawarhouses, Big data concepts and NoSQL
 4. Should know Languages like python, scala
 5. Should know about cloud storage techniques
 6. Good knowledge over data structures and algorithms
