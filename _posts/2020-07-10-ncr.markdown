@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "NCR Software Engineer (Fresher)"
+date:   2020-07-03 20:28:34 +0530
+categories: myinterviews
+tag: myinterviews
+---
+
+I attempted for this role through hackerearth(off campus).There were 4 total rounds.
+NCR tests a candidate in all Computer science basics like Datastructures and algorithms, OS, Java, database, logical and aptitude questions.
+
+Round1(online round): This round was an online round happened in hackerearh. There were 2 coding questions and 15 MCQS questions on java,c,DBMS and DS.
+I had solved 1.5 coding question and nearly kept 11-12 MCQS correct. The difficulty of questions was medium to hard. They select the candidates for further evaluation based on the performance in this round. They called me for the further evaluation in second batch.
+
+Round 2(TR 1): The interviewer was very friendly. She made me feel comfortable. She went through my resume first and asked some of the questions regarding resume about trainings and internships.
+She started asking question on SQL like creation of new table from old table, joins and real world examples of datamodel etc. She also asked me to create a datamodel for DMart kind of stores. I have explained her datamodel in snowflake schema. Then she moved to coding and algorithms. Asked some basic questions like sorting, time complexity and deriving time complexity of merge sort. The complexity of questions was medium to hard in ds & algo. Asked questions like merge sort of linked list, spiral traversal of matrix and reverse of linked list. Later, We moved to questions on java. Questions were about heap memory, Exception handling, basic thread program, difference between array and arraylist, abstraction, Inheritance, Polymorphism, difference between abstract class and interface and explaining with it realworld example. Next, moved to logical questions. Questions were on sand timers, why manholes are in round not in square and some other tricky questions. We will be called to further rounds only if we perform good in the first round.
+
+Round 3: (TR 2): This round was conducted next day after TR1. It went like 1 to 1.5 hrs like first round. He asked me questions on java deeply, Writing interfaces, classes, functions for the examples given. Concepts like type casting, polymorphism, stack, queue, and objects in java.
+Asked some coding questions like distribution of chocolates to students in equal amount based on the age of the students and some mathematical formula implementation through code (Tip: Chinese remainder theorm helps to solve this type of questions). Asked questions on SQL by giving some scenarios . (Tip: joins, Group by and aggreagate functions helped me to answert these questions).
+
+Round 4(HR): I was asked some general questions like introuduce yourself, why did you choose NCR, what makes you work effectively, what is the most excited thing I have done during my college and some other basic conversation.
+
+After all rounds, I waited outside and was informed my results after 15 Mins.
+
+Conclusion: Need good understanding of OOPS concepts. Good knowledge over data structures, coding and algorithms. Should know languages Java, C and SQL. Reading some logical and tricky questions helps.
