@@ -6,8 +6,8 @@ categories: myinterviews
 tag: myinterviews
 ---
 
-I attempted for this role through hackerearth(off campus).There were 4 total rounds.
-NCR tests a candidate in all Computer science basics like Datastructures and algorithms, OS, Java, database, logical and aptitude questions.
+I attempted for this role through hackerearth(off campus).There were 4 rounds.
+NCR tests a candidate in all Computer science basics like Datastructures and algorithms, OS, Java, Databases, logical and aptitude questions.
 
 Round1(online round): This round was an online round happened in hackerearh. There were 2 coding questions and 15 MCQS questions on java,c,DBMS and DS.
 I had solved 1.5 coding question and nearly kept 11-12 MCQS correct. The difficulty of questions was medium to hard. They select the candidates for further evaluation based on the performance in this round. They called me for the further evaluation in second batch.
